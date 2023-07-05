@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  assetPrefix: './next-tester',
+  assetPrefix: '/next-tester',
 }
 
 module.exports = nextConfig
